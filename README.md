@@ -25,7 +25,7 @@
 </br>
 Assembly, Reverse Engineering, Packet Analysis, Decoding
 </br>
-언어와 관계 없이 남의 소스 작업 가능, 처음 하는 언어로 작업 가능.
+처음 하는 언어로 개발 가능, 언어와 관계 없이 남의 소스 작업 가능,
 </p>
 <img src="https://github.com/dwerasd/dwerasd/blob/main/istp-a.png"/>
 
