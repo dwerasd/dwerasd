@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </br>
-Assembly, Reverse Engineering, Packet Analysis, Decoding
+어셈블리어, 리버스 엔지니어링, 패킷분석, 암복호화 등,
 </br>
 처음 하는 언어로 개발 가능, 언어와 관계 없이 남의 소스 작업 가능,
 </p>
