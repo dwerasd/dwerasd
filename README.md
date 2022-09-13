@@ -26,6 +26,8 @@
 어셈블리어, 리버스 엔지니어링, 패킷분석, 암복호화 등,
 </br>
 처음 하는 언어로 개발 가능, 언어와 관계 없이 남의 소스 작업 가능,
+</br>
+바닥부터 엔진 개발 가능,
 </p>
 <img src="https://github.com/dwerasd/dwerasd/blob/main/istp-a.png"/>
 
