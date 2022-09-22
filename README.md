@@ -23,15 +23,13 @@
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </br>
-어셈블리어, 리버스 엔지니어링, 패킷분석, 암복호화 등,
-</br>
-처음 하는 언어로 개발 가능, 언어와 관계 없이 남의 소스 작업 가능,
-</br>
-바닥부터 엔진 개발 가능,
-</br>
-일반적인 개발자들이 불가능하다 하는 의뢰 같은 경우 성과보수는 당연하고 기본 착수금이 있어야만 작업을 시작합니다.
-</br>
-문의
+어셈블리어, 리버스 엔지니어링, 패킷분석, 암복호화 등,</br>
+처음 하는 언어로 개발 가능, 언어와 관계 없이 남의 소스 작업 가능,</br>
+바닥부터 엔진 개발 가능,</br>
+일반적인 개발자들이 불가능하다 하는 의뢰 같은 경우 성과보수는 당연하고 기본 착수금이 있어야만 작업을 시작합니다.</br>
+착수금의 경우 가능하다고 판단 되는 경우에는 주당 오백, 해봐야 아는 경우는 주당 천 입니다.</br>
+자세한 사항은 텔레그램으로 문의 바랍니다.</br>
+감사합니다</br>
 </p>
 <img src="https://github.com/dwerasd/dwerasd/blob/main/istp-a.png"/>
 
