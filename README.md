@@ -31,6 +31,7 @@
 </br>
 일반적인 개발자들이 불가능하다 하는 의뢰 같은 경우 성과보수는 당연하고 기본 착수금이 있어야만 작업을 시작합니다.
 </br>
+문의
 </p>
 <img src="https://github.com/dwerasd/dwerasd/blob/main/istp-a.png"/>
 
