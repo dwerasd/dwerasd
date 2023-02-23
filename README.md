@@ -35,9 +35,8 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 </br>
 
-
-어셈블리어, 리버스 엔지니어링, 패킷분석, 암복호화 등,</br>
-C++, 파이썬, 머신러닝, 딥러닝, 강화학습(텐서플로우 or 파이토치) 등.</br>
+개발은 C++, 파이썬, 머신러닝, 딥러닝, 강화학습(텐서플로우 or 파이토치) 등.</br>
+그 외 작업은 어셈블리어, 리버스 엔지니어링, 패킷분석, 암복호화 등,</br>
 Visual Studio, Visual Code, Jetbrain IDE 환경을 선호합니다.</br>
 처음 하는 언어로 개발 가능, 바닥부터 엔진 개발 가능,</br></br>
 
