@@ -1,5 +1,5 @@
 <p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&layout=pie)](https://github.com/dwerasd/github-readme-stats)
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&layout=pie)](https://github.com/dwerasd/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username={id}&langs_count=20&layout=donut-vertical&size_weight=1))
 </br>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
