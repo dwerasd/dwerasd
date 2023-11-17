@@ -1,6 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&langs_count=20&layout=donut-vertical&size_weight=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&layout=donut-vertical)
-﻿﻿
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
