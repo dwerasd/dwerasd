@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&langs_count=20&layout=donut-vertical&size_weight=1)](https://github.com/dwerasd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&langs_count=20&layout=donut-vertical&size_weight=1))
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&langs_count=10&layout=compact&theme=dark)](https://github.com/dwerasd)﻿
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
