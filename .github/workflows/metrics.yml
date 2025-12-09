@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # 매일 자정마다 갱신
   schedule: [{cron: "0 0 * * *"}]
-  # 수동으로도 갱신 가능하게 함
   workflow_dispatch:
-  # push 할 때마다 갱신 (선택사항)
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,17 +11,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # ❗️ 아래 옵션들만 남기고 모두 수정/교체하세요.
           token: ${{ secrets.METRICS_TOKEN }}
-          # 결과물: svg 이미지
           filename: github-metrics.svg
-          
-          # 기본 설정
-          user: dwerasd
-          template: classic
-          base: header, activity, community, repositories, metadata
-          
-          # 언어 설정 (도넛 차트 등)
+
+          # ✅ 기본 통계(base)를 비워서 언어 통계만 나오게 합니다.
+          base: ""
+
+          # ✅ 언어 플러그인 설정
           plugin_languages: yes
-          plugin_languages_ignored: html, css, makefile # 여기서 숨김 처리
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, makefile  # 숨길 언어 목록
+          plugin_languages_limit: 8                       # 최대 8개 언어 표시
+          plugin_languages_threshold: 0%                  # 0% 미만은 숨김
+          plugin_languages_sections: most-used            # 가장 많이 사용한 언어
+          plugin_languages_layout: compact                # 컴팩트 레이아웃
