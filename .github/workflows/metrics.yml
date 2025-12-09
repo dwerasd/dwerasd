@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # 👇 파일 이름을 아예 새로 지어서 캐시 문제 원천 차단
-          filename: my-final-metrics.svg
+          filename: github-metrics.svg
           
           # 기본 통계 끄기
           base: ""
