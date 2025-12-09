@@ -2,7 +2,7 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -12,7 +12,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
+          filename: github-metrics1.svg
           
           # 기본 통계 제거
           base: ""
