@@ -21,7 +21,13 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, makefile
           
-          # 👇 여기가 핵심 변경점! (bytes-size 삭제하고 percentage만 남김)
+          # 👇 여기가 핵심! (compact -> donut으로 변경)
+          plugin_languages_layout: donut
+          
+          # 도넛 가운데 구멍 크기 (0~100, 0이면 파이 차트)
+          plugin_languages_layout_donut_size: 50%
+          
+          # 퍼센트만 표시
           plugin_languages_details: percentage
           
           plugin_languages_limit: 8
