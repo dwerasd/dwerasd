@@ -14,11 +14,14 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           
-          # 👇 여기가 핵심입니다! (빈칸으로 비워둬야 다른 잡다한 정보가 사라집니다)
+          # 기본 통계 숨김
           base: ""
           
-          # 언어 설정만 남김
+          # 언어 설정
           plugin_languages: yes
           plugin_languages_ignored: html, css, makefile
-          plugin_languages_details: bytes-size, percentage
+          
+          # 👇 여기가 핵심 변경점! (bytes-size 삭제하고 percentage만 남김)
+          plugin_languages_details: percentage
+          
           plugin_languages_limit: 8
