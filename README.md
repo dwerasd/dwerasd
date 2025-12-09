@@ -1,5 +1,4 @@
 ![Metrics](https://github.com/dwerasd/dwerasd/blob/main/github-metrics.svg?v=1)
-![Languages](https://github.com/dwerasd/dwerasd/blob/main/github-metrics.svg)
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
