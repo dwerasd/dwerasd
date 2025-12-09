@@ -1,7 +1,10 @@
 name: Metrics
 on:
+  # 매일 자정에 실행
   schedule: [{cron: "0 0 * * *"}]
+  # 수동 실행 가능
   workflow_dispatch:
+  # 마스터/메인 브랜치 푸시 시 실행
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -13,22 +16,26 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # 👇 파일 이름을 아예 새로 지어서 캐시 문제 원천 차단
+          # 👇 파일 이름을 지정하여 캐시 문제 방지
           filename: github-metrics.svg
           
-          # 기본 통계 끄기
+          # 기본 통계(header, repositories 등) 끄기
           base: ""
           
-          # 언어 설정 (도넛 + 8개 + 퍼센트)
+          # 언어 플러그인 활성화
           plugin_languages: yes
-          plugin_languages_ignored: html, css, makefile
           
-          # 레이아웃: 도넛
+          # 👇 [수정됨] 제외할 언어 목록 설정
+          # html, css, makefile 외에 objective-c, objective-c++ 추가
+          # (대소문자 구분을 위해 정확한 Linguist 명칭 사용 권장)
+          plugin_languages_ignored: html, css, makefile, objective-c, objective-c++
+          
+          # 레이아웃: 도넛 차트
           plugin_languages_layout: donut
           plugin_languages_layout_donut_size: 50%
           
           # 텍스트: 퍼센트만 표시
           plugin_languages_details: percentage
           
-          # 개수: 8개까지
+          # 표시할 언어 개수 제한 (상위 8개)
           plugin_languages_limit: 8
