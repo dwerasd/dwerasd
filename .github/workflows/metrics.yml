@@ -13,14 +13,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
+          
+          # 기본 통계 제거
           base: ""
+          
+          # 언어 설정 (파이 차트 강제 적용)
           plugin_languages: yes
           plugin_languages_ignored: html, css, makefile
           
-          # 👇 레이아웃을 'donut'으로 명시
-          plugin_languages_layout: donut
+          # 👇 핵심 변경: donut 대신 pie 사용
+          plugin_languages_layout: pie
           
-          # 도넛 차트는 원래 '세부 정보'가 아래쪽에 뜹니다.
-          # 옆에 뜨게 하려면 donut-vertical 등은 지원하지 않으므로 기본 donut을 씁니다.
+          # 퍼센트 표시
           plugin_languages_details: percentage
           plugin_languages_limit: 8
