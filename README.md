@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwerasd&langs_count=20&layout=donut-vertical&size_weight=1&cache_seconds=1800&count_private=true&hide=html,css,MakeFile)
+![Top Langs](https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=dwerasd&langs_count=20&layout=donut-vertical&size_weight=1&cache_seconds=1800&count_private=true&hide=html,css,MakeFile)
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
