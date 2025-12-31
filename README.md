@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
 </br>
 
-개발은 C/C++, 파이썬, 머신러닝, 딥러닝, 강화학습(텐서플로우 or 파이토치) 등.</br>
+개발은 C/C++, 파이썬, 머신러닝, 딥러닝, 강화학습 등.</br>
 개발 외 메모리, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 암복호화 등의 작업도 가능합니다.</br>
 IDE 는 Visual Studio 2026, Visual Code 를 선호하고 Jetbrain 도 가능합니다.</br>
 바닥부터 엔진 개발 가능, 처음 하는 언어로 개발 가능, 다른 언어로 컨버팅 가능</br>
