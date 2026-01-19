@@ -28,7 +28,7 @@ jobs:
           # 👇 [수정됨] 제외할 언어 목록 설정
           # html, css, makefile 외에 objective-c, objective-c++ 추가
           # (대소문자 구분을 위해 정확한 Linguist 명칭 사용 권장)
-          plugin_languages_ignored: html, css, makefile, objective-c, objective-c++, cmake, kotlin, glsl,batchfile,shell
+          plugin_languages_ignored: html, css, makefile, objective-c, objective-c++, cmake, kotlin, glsl,batchfile,shell,xslt
           
           # 레이아웃: 도넛 차트
           plugin_languages_layout: donut
