@@ -46,12 +46,8 @@ IDE 는 Visual Studio 2026, Visual Studio Code 를 선호하고 Jetbrain 도 가
 소스가 없는 프로그램의 수정 및 기능 추가, 재구현 가능</br>
 위 작업처럼 보통 개발자들이 할 수 없는 작업은 가능한지 확인 후 착수금이 있어야 시작합니다.</br>
 
-선호하는 작업 환경</br>
-136k 이상의 CPU, 96~196GB RAM, 모니터는 밝기 300 이상의 UHD(ips,27) + QHD(ips,24-27), </br>
-졸리면 자고 눈 뜨면 컴퓨터 할 수 있는 환경 선호, 근거리에 숙소 또는 샤워실과 수면실이 있으면 좋습니다.</br>
-
 연락은 메일로 주세요!</br>
 감사합니다.</br>
 </p>
-<img src="https://github.com/dwerasd/dwerasd/blob/main/istp-a.png"/>
+
 
