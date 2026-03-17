@@ -38,8 +38,9 @@
 <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white"/>
 </br>
 
-개발은 C/C++, 파이썬, 머신러닝, 딥러닝, 강화학습 등.</br>
-개발 외 메모리, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 암복호화 등의 작업도 가능합니다.</br>
+개발은 C/C++, Python, Nodejs, Go</br>
+윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습 등 가능합니다.</br>
+일반적인 개발자가 하지 못하는 메모리, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 암복호화 등의 작업도 가능합니다.</br>
 IDE 는 Visual Studio 2026, Visual Studio Code 를 선호하고 Jetbrain 도 가능합니다.</br>
 바닥부터 엔진 개발 가능, 처음 하는 언어로 개발 가능, 다른 언어로 컨버팅 가능</br>
 소스가 없는 프로그램의 수정 및 기능 추가, 재구현 가능</br>
