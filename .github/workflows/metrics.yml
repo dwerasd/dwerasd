@@ -29,11 +29,7 @@ jobs:
           # html, css, makefile 외에 objective-c, objective-c++ 추가
           # (대소문자 구분을 위해 정확한 Linguist 명칭 사용 권장)
           plugin_languages_ignored: html, css, makefile, objective-c, objective-c++, cmake, kotlin, glsl,batchfile,shell,xslt
-          
-          # 레이아웃: 도넛 차트
-          plugin_languages_layout: donut
-          plugin_languages_layout_donut_size: 50%
-          
+                
           # 텍스트: 퍼센트만 표시
           plugin_languages_details: percentage
           
