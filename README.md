@@ -15,13 +15,15 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </br>
 
-C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript 등을 사용해 개발해왔습니다.</br>
-윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습 관련 작업과</br>
-메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 암복호화 등의 작업도 해왔습니다.</br>
-IDE 는 Visual Studio 2026, Visual Studio Code 를 주로 사용합니다.</br>
-엔진 성격의 기반 코드 작성, 다른 언어로의 포팅, 익숙하지 않은 언어 환경에서의 구현도 필요에 따라 진행해왔습니다.</br>
-소스가 없거나 구조가 불명확한 프로그램의 동작을 분석해 수정 방향을 정리하거나 기능을 재구성하는 작업도 해왔습니다.</br>
-</br>
+자주 해온 것들.
+메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 복호화</br>
+C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
+윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습, 하네스 엔지니어링</br>
+엔진 성격의 기반 코드 작성, 다른 언어로의 포팅 등.</br>
+소스가 없거나 구조가 불명확한 프로그램의 동작을 분석해 수정 방향을 정리하거나 기능의 재구성</br>
+
+주 사용 IDE: Visual Studio 2026, Visual Studio Code 등</br>
+
 실무 과제의 상당수는 저작권 문제로 공개하지 못하지만, 공개 가능한 범위의 작업은 계속 추가하고 있습니다.</br>
 
 위 작업들은 AI 에이전트 없이도 해왔고, 최근에는 AI를 활용해 구조 정리, 구현, 검수 과정을 더 빠르게 진행하고 있습니다.</br>
