@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </br>
 
-자주 해온 것들.
+자주 해온 것들.</br>
 메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 복호화</br>
 C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습, 하네스 엔지니어링</br>
