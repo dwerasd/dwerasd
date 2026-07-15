@@ -20,7 +20,7 @@
 C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습, 하네스 엔지니어링</br>
 엔진 성격의 기반 코드 작성, 다른 언어로의 포팅 등.</br>
-소스가 없는 프로그램의 수정 및 기능의 재구성</br>
+소스가 없는 프로그램의 수정 및 기능 추가</br>
 
 주 사용 IDE: Visual Studio 2026, Visual Studio Code 등</br>
 
