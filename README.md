@@ -21,10 +21,6 @@ C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 엔진 성격의 기반 코드 작성, 다른 언어로의 포팅 등.</br>
 소스가 없는 프로그램의 수정 및 기능 추가</br>
 
-IDE: Visual Studio 2026, Visual Studio Code 등</br>
-
-실무 과제의 상당수는 저작권 문제로 공개하지 못하지만, 공개 가능한 범위의 작업은 계속 추가하고 있습니다.</br>
-
 위 작업들은 AI 에이전트 없이도 해왔고, 최근에는 AI를 활용해 구조 정리, 구현, 검수 과정을 더 빠르게 진행하고 있습니다.</br>
 감사합니다.</br>
 </p>
