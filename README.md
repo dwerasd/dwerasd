@@ -15,14 +15,13 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </br>
 
-자주 해온 것들.</br>
 메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 복호화</br>
 C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습, 하네스 엔지니어링</br>
 엔진 성격의 기반 코드 작성, 다른 언어로의 포팅 등.</br>
 소스가 없는 프로그램의 수정 및 기능 추가</br>
 
-주 사용 IDE: Visual Studio 2026, Visual Studio Code 등</br>
+IDE: Visual Studio 2026, Visual Studio Code 등</br>
 
 실무 과제의 상당수는 저작권 문제로 공개하지 못하지만, 공개 가능한 범위의 작업은 계속 추가하고 있습니다.</br>
 
