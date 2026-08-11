@@ -1,6 +1,6 @@
 ![Metrics](https://github.com/dwerasd/dwerasd/blob/main/github-metrics.svg?v=1)
 <p>
-![현재 개발 환경](./photo_2026-08-11_09-37-34.jpg)
+<img src="./photo_2026-08-11_09-37-34.jpg" alt="현재 개발 환경"/><br>
 UHD(27) + QHD(27)
 
 메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 복호화</br>
