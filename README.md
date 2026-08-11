@@ -1,7 +1,5 @@
 ![Metrics](https://github.com/dwerasd/dwerasd/blob/main/github-metrics.svg?v=1)
 <p>
-</br>
-
 ![현재 개발 환경](./photo_2026-08-11_09-37-34.jpg)
 UHD(27) + QHD(27)
 
