@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </br>
 
-![개발 환경](./photo_2026-08-11_09-37-34.jpg)
+![현재 개발 환경](./photo_2026-08-11_09-37-34.jpg)
+UHD(27) + QHD(27)
 
 메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 복호화</br>
 C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
