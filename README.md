@@ -1,5 +1,3 @@
-![듀얼 모니터 개발 작업 환경](./photo_2026-08-11_09-37-34.jpg)
-
 ![Metrics](https://github.com/dwerasd/dwerasd/blob/main/github-metrics.svg?v=1)
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -16,6 +14,8 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </br>
+
+![개발 환경](./photo_2026-08-11_09-37-34.jpg)
 
 메모리 분석, 어셈블리어 분석, 리버스 엔지니어링, 패킷분석, 복호화</br>
 C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
