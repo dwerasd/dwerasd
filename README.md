@@ -1,3 +1,5 @@
+![듀얼 모니터 개발 작업 환경](./photo_2026-08-11_09-37-34.jpg)
+
 ![Metrics](https://github.com/dwerasd/dwerasd/blob/main/github-metrics.svg?v=1)
 <p>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
