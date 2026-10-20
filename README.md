@@ -11,5 +11,5 @@ C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 
 </br>
 </br>
-요즘 만드는거</br>
+요즘 만들고 있는거</br>
 <img src="./2026-10-20 160728.jpg" alt="."/><br>
