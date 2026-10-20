@@ -9,4 +9,7 @@ C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 엔진 성격의 기반 코드 작성, 다른 언어로의 포팅 등.</br>
 소스가 없는 프로그램의 수정 및 기능 추가</br>
 
-
+</br>
+</br>
+요즘 만드는거</br>
+<img src="./2026-10-20 160728.jpg" alt="."/><br>
