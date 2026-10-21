@@ -13,4 +13,4 @@ C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 </br>
 요즘 만들고 테스트중인것</br>
 <img src="./pnl.jpg" alt="."/>
-<img src="./deposit.jpg" alt="."/>
+<img src="./deposit2.jpg" alt="."/>
