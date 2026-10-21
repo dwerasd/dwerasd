@@ -11,5 +11,6 @@ C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 
 </br>
 </br>
-요즘 만들고 있는 백테 아니고 실매매</br>
-<img src="./2026-10-20 160728.jpg" alt="."/><br>
+요즘 만들고 테스트중인것</br>
+<img src="./pnl.jpg" alt="."/><br>
+<img src="./deposit.jpg" alt="."/><br>
