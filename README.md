@@ -8,10 +8,3 @@ C/C++, Python, NodeJS, Go, React, SolidJS, Java, TypeScript</br>
 윈도우 프로그램, 웹, 머신러닝, 딥러닝, 강화학습</br>
 엔진 성격의 기반 코드 작성, 다른 언어로의 포팅 등.</br>
 소스가 없는 프로그램의 수정 및 기능 추가</br>
-
-</br>
-</br>
-요즘 만들고 테스트중인것</br>
-<img src="./deposit2.jpg"/>
-<img src="./pnl2.jpg"/>
-<img src="./balance.jpg"/>
